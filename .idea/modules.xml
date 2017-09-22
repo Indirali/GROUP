@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/godgroup-common/godgroup-common.iml" filepath="$PROJECT_DIR$/godgroup-common/godgroup-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/godgroup-model/godgroup-model.iml" filepath="$PROJECT_DIR$/godgroup-model/godgroup-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/godgroup-web/godgroup-web.iml" filepath="$PROJECT_DIR$/godgroup-web/godgroup-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+    </modules>
+  </component>
+</project>
