@@ -11,6 +11,7 @@
         <module>godgroup-web</module>
         <module>godgroup-model</module>
         <module>godgroup-common</module>
+        <module>godgroup-mobile</module>
     </modules>
 
     <packaging>pom</packaging>
@@ -69,7 +70,7 @@
         <log4j.version>2.5</log4j.version>
         <httpclient.version>4.5.1</httpclient.version>
         <jackson.version>1.9.13</jackson.version>
-        <c3p0.version>0.9.5.2</c3p0.version>
+        <c3p0.version>0.9.1.2</c3p0.version>
         <druid.version>1.0.5</druid.version>
         <tomcat.jdbc.version>7.0.53</tomcat.jdbc.version>
         <google.collections.version>1.0</google.collections.version>
@@ -169,6 +170,13 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>${mysql.connector.version}</version>
+        </dependency>
+
+        <!--c3p0-->
+        <dependency>
+            <groupId>c3p0</groupId>
+            <artifactId>c3p0</artifactId>
+            <version>${c3p0.version}</version>
         </dependency>
 
         <!-- DruidDataSource -->
