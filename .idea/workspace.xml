@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ecc6211-1072-46ed-ab28-4188ee7efc0b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="7ecc6211-1072-46ed-ab28-4188ee7efc0b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/godgroup-web/target/" />
@@ -499,12 +497,12 @@
       <workItem from="1506065596478" duration="1885000" />
       <workItem from="1506067642848" duration="331000" />
       <workItem from="1506067987092" duration="3438000" />
-      <workItem from="1506071454856" duration="100000" />
+      <workItem from="1506071454856" duration="185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5754000" />
+    <option name="totallyTimeSpent" value="5839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
