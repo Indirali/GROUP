@@ -12,6 +12,7 @@
         <module>godgroup-model</module>
         <module>godgroup-common</module>
         <module>godgroup-mobile</module>
+        <module>godgroup-service</module>
     </modules>
 
     <packaging>pom</packaging>
