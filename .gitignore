@@ -28,3 +28,9 @@ target/
 .DS_Store
 Thumbs.db
 godgroup-service/src/
+godgroup-common/src/
+godgroup-mobile/src/main/java/
+godgroup-mobile/src/test/
+godgroup-model/src/main/java/
+godgroup-model/src/test/
+godgroup-web/src/test/
