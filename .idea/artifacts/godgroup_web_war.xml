@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="godgroup-web:war">
-    <output-path>$PROJECT_DIR$/godgroup-web/target</output-path>
-    <root id="archive" name="godgroup-web.war">
-      <element id="artifact" artifact-name="godgroup-web:war exploded" />
-    </root>
-  </artifact>
-</component>
